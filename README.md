@@ -1,1 +1,4 @@
-# 2014cp_project_40323103
+2014cp_project
+==============
+
+2014 Fall Computer Programming Project
